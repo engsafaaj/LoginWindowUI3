@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LoginWindowUI3 (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LoginWindowUI3 (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
